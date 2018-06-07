@@ -1,2 +1,7 @@
-{"id": 1, "name": "Black Mountain", "location": "Canberra", "created by": "User1"}
-
+{
+"employees":[
+    {"firstName":"John", "lastName":"Doe"}, 
+    {"firstName":"Anna", "lastName":"Smith"},
+    {"firstName":"Peter", "lastName":"Jones"}
+]
+}
