@@ -1,5 +1,2 @@
-{
-  "trials": [
-    {"id": 1, "name": "Black Mountain", "location": "Canberra", "created by": "User1"}
-  ]
-}
+{"id": 1, "name": "Black Mountain", "location": "Canberra", "created by": "User1"}
+
