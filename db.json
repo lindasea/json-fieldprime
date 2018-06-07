@@ -2,7 +2,13 @@
   "trials": [
     {
       "id": 1,
-      "title": "Black Mountain"
+      "title": "Black Mountain",
+      "location": "Canberra"
+    },
+    {
+      "id": 2,
+      "title": "Wheat Project",
+      "location": "Perth"
     }
   ],
   "profile": {
